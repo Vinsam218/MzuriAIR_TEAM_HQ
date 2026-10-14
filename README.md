@@ -23,11 +23,11 @@ The watch firmware remains authoritative for its current risk level, AQI, domina
 
 ## Workstream owners
 
-- **A — Product and integration:** product scope, telemetry contract, architecture, end-to-end acceptance.
-- **B — Platform:** backend/API/database, device registration, access control, hub/funding coordination.
-- **C — Research and validation:** sensor limitations, test protocols, data provenance, lawful wheeze-dataset research.
-- **D — Mechanical/product design:** board measurements, enclosure concept, comfort, sensor placement and charging access.
-- **E — Electrical/hardware:** sensor/pin inventory, power budget, motor-driver feasibility, battery/charging review.
+- **Vinsam — Product and integration:** product scope, telemetry contract, architecture, end-to-end acceptance.
+- **Zach — Platform:** backend/API/database, device registration, access control, hub/funding coordination.
+- **Nicole — Research and validation:** sensor limitations, test protocols, data provenance, lawful wheeze-dataset research.
+- **Zach — Mechanical/product design:** board measurements, enclosure concept, comfort, sensor placement and charging access.
+- **Ephraim — Electrical/hardware:** sensor/pin inventory, power budget, motor-driver feasibility, battery/charging review.
 
 These are proposed role assignments. Confirm ownership and realistic weekly availability before committing dates.
 
